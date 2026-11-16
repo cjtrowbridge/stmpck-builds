@@ -8,5 +8,6 @@
   "signer_sha256": "5d4e7dbc0119ceac7d5f5c098ab03f8d8989686dc96cf53d86b278a3a600390c",
   "source_commit": "a2a43a576121a11fb8e7c9e3d428227b2ab50cf6",
   "build_report": "2026-11-16T22:30:00.695985+00:00",
-  "status": "development build; Android/Linux/WebAssembly canonical validation passed"
+  "status": "development build; Android/Linux/WebAssembly canonical validation passed",
+  "device_verification": "Pixel 4a: in-app version 2 to 3 update; saved game preserved; identical-APK check reports up to date"
 }
